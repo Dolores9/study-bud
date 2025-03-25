@@ -54,3 +54,4 @@ Join our community of developers creating universal apps.
 - [Expo documentation](https://docs.expo.dev/)
 - [Expo sqlite](https://docs.expo.dev/versions/latest/sdk/sqlite/): How to use expo with sqlite for db [11:52m]
 - [Expo Tabs, Modals](https://docs.expo.dev/router/advanced/tabs/): tabs, (https://docs.expo.dev/router/advanced/modals/): modals.
+- [Video](https://www.youtube.com/watch?v=vgPdAARd6Gw): youtube.
