@@ -48,3 +48,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## important links for developing (school)
+
+- [Expo documentation](https://docs.expo.dev/)
+- [Expo sqlite](https://docs.expo.dev/versions/latest/sdk/sqlite/): How to use expo with sqlite for db [11:52m]
